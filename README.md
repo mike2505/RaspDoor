@@ -16,7 +16,7 @@ python3 server.py
 # Features
 - You can specify IP
 - Some Prebuilt Functions
-- Client automaticly adds itself to crontab (It will execute every 10 min)
+- Client automatically adds itself to crontab (It will execute every 10 min)
 - No Requirements
 - Nice Info Bar :D
 
