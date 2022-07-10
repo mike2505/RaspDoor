@@ -45,8 +45,8 @@ baner = """  _____                 _____   ____   ____  _____
                  """
 
 
-SERVER_HOST = '192.168.100.3'
-SERVER_PORT = 4343
+SERVER_HOST = '!YOUR IP HERE!'
+SERVER_PORT = !YOUR PORT HERE!
 BUFFER_SIZE = 1024 * 128
 SEPARATOR = "<sep>"
 
